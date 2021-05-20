@@ -1,0 +1,3 @@
+# algorithms
+
+solver of leetcode
